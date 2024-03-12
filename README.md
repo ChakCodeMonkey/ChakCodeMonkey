@@ -4,4 +4,4 @@ I thrive on turning creative ideas into interactive and visually appealing web e
 
 🚀 When I'm not coding, you can catch me impressing folks by solving Rubik's cubes in just 30 seconds! 🧩 
 
-Let's create amazing things together! 🌟 #FrontEndWizard
+Let's create amazing things together! 🌟
